@@ -1,18 +1,109 @@
 {
-  "pmEstrellaBlanca": 23340,
-  "harinaFacturasDulces": 21500,
-  "harinaPanDeMiga": 22000,
-  "harinaPanDulce": 22500,
-  "harinaPanLactal": 23000,
-  "harinaFacturasGrasa": 21000,
-  "harinaPizza": 21800,
-  "harinaPanConSalvado": 22800,
-  "harinaGrisines": 23500,
-  "premezclaSandwich": 24000,
-  "premezclaPizza": 23800,
   "levadura": 2518,
   "margarina": 3800,
-  "agua": 0
+  "agua": 0,
+  "frutas": 12000,
+  "chocolate": 18000,
+
+  "productos": {
+    "pmEstrellaBlanca": {
+      "precio": 23340,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "harinaFacturasDulces": {
+      "precio": 21500,
+      "agua": 40,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "harinaPanDeMiga": {
+      "precio": 22000,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "harinaPanDulceFruta": {
+      "precio": 22500,
+      "agua": 43,
+      "margarina": 15,
+      "levadura": 3,
+      "frutas": 12,
+      "chocolate": 0
+    },
+    "harinaPanDulceChocolate": {
+      "precio": 22500,
+      "agua": 43,
+      "margarina": 15,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 15
+    },
+    "harinaPanLactal": {
+      "precio": 23000,
+      "agua": 45,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "harinaFacturasGrasa": {
+      "precio": 21000,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "harinaPizza": {
+      "precio": 21800,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "harinaPanConSalvado": {
+      "precio": 22800,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "harinaGrisines": {
+      "precio": 23500,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "premezclaSandwich": {
+      "precio": 24000,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    },
+    "premezclaPizza": {
+      "precio": 23800,
+      "agua": 50,
+      "margarina": 20,
+      "levadura": 3,
+      "frutas": 0,
+      "chocolate": 0
+    }
+  }
 }
+
 
 
